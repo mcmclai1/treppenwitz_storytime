@@ -1,0 +1,23 @@
+Raesfeld 
+Flughafen: Airport
+Berlin 
+Bratwurst 
+Hauptstrasse: Main Street
+Brot: Bread
+Klimaanlage: Air Conditioning 
+Rammstein 
+Porsche
+BMW 
+Biergarten: Beer Garden
+Ratskeller 
+Dirndel: Dirndl
+Lederhose: Lederhosen 
+Schloss: Castle
+wettbewerbsfaehig: Competitive
+Mehlhase: Flour bunny
+Gebaeck: Pastries
+Baeckerei: Bakery
+Hund: Dog
+Doener: Doner
+Apfelkuchen: Apple Cake
+Eltz
