@@ -1,23 +1,24 @@
-Raesfeld 
+Treppenwitz: Staircase joke
+Raesfeld: No translation found
 Flughafen: Airport
-Berlin 
-Bratwurst 
+Berlin: No translation found
+Bratwurst: No translation found
 Hauptstrasse: Main Street
 Brot: Bread
 Klimaanlage: Air Conditioning 
-Rammstein 
-Porsche
-BMW 
-Biergarten: Beer Garden
-Ratskeller 
+Rammstein: No translation found
+Porsche: No translation found
+BMW: No translation found
+Biergarten: Beer garden
+Ratskeller: No translation found
 Dirndel: Dirndl
 Lederhose: Lederhosen 
 Schloss: Castle
-wettbewerbsfaehig: Competitive
+Wettbewerbsfaehig: Competitive
 Mehlhase: Flour bunny
 Gebaeck: Pastries
 Baeckerei: Bakery
 Hund: Dog
 Doener: Doner
 Apfelkuchen: Apple Cake
-Eltz
+Eltz: No translation found
