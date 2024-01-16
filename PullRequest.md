@@ -1,2 +1,3 @@
 - [mcmclai1 - pull request](https://github.com/astought-asu/zungenbrecher-story-time/pull/3)
 - [rafael-tortuga - pull request](https://github.com/tewen23/fernweh_germanstory/pull/2/)
+- [Connor McCoy - pull request](https://github.com/dlsmallw/TeamKuddelmuddel316/pull/8)
