@@ -1,24 +1,24 @@
 Treppenwitz: Staircase joke
-Raesfeld: No translation found
+Raesfeld: It is a city western part of Germany
 Flughafen: Airport
-Berlin: No translation found
-Bratwurst: No translation found
-Hauptstrasse: Main Street
+Berlin: It is capital of Germany
+Bratwurst: Fried sausage
+Hauptstrasse: Main road
 Brot: Bread
-Klimaanlage: Air Conditioning 
-Rammstein: No translation found
-Porsche: No translation found
-BMW: No translation found
+Klimaanlage: Air conditioner
+Rammstein: German hard rock band
+Porsche: German car
+BMW: German car
 Biergarten: Beer garden
-Ratskeller: No translation found
-Dirndel: Dirndl
-Lederhose: Lederhosen 
-Schloss: Castle
+Ratskeller: Bar or restaurant located in the basement of a city hall or nearby
+Dirndel: Dirndl(Type of feminine dress)
+Lederhose: Leather pants
+Schloss: Lock (Castle)
 Wettbewerbsfaehig: Competitive
-Mehlhase: Flour bunny
+Mehlhase: Surname. (A person who is full of love)
 Gebaeck: Pastries
 Baeckerei: Bakery
 Hund: Dog
-Doener: Doner
-Apfelkuchen: Apple Cake
-Eltz: No translation found
+Doener: Doner/Kebab
+Apfelkuchen: Apple pie
+Eltz: Name
